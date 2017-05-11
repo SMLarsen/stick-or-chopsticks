@@ -1,0 +1,19 @@
+{
+  "name": "stick-or-chopsticks",
+  "version": "1.0.0",
+  "description": "Codewars 5kyu - One Line Task: Stick Or Chopsticks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMLarsen/stick-or-chopsticks.git"
+  },
+  "author": "Steve Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMLarsen/stick-or-chopsticks/issues"
+  },
+  "homepage": "https://github.com/SMLarsen/stick-or-chopsticks#readme"
+}
